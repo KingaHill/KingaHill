@@ -1,4 +1,4 @@
-![I am an environmental data scientist and mapper](https://github.com/KingaHill/KingaHill/blob/main/GitHub%20Banner.jpg)
+![I am an environmental data scientist and mapper]()
 
 ### Hi there, my name is Kinga
 #### I am an environmental data scientist and mapper
